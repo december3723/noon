@@ -116,19 +116,6 @@
           ]
         },
         {
-          "id": "me.pepperbell:continuity:3.0.0+1.21.3@jar",
-          "name": "Continuity",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1003345,
-            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/continuity-3.0.0+1.21.3.jar",
-            "MD5": "b7d4df35d27fdc3ffc6598f73ebb06c3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.114.1+1.21.3@jar",
           "name": "Fabric API",
           "type": "FabricMod",
