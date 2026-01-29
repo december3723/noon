@@ -155,13 +155,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.8.1+mc1.21.3@jar",
+          "id": "generated.fabricmod:iris:1.8.0+mc1.21.3@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2663618,
-            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/iris-fabric-1.8.1+mc1.21.3.jar",
-            "MD5": "1987e6badf2a780cac8d73a75613b2ae"
+            "size": 2660855,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/iris-fabric-1.8.0+mc1.21.3.jar",
+            "MD5": "783602e558c53a1d224793efe80492e6"
           },
           "required": {
             "value": false
@@ -207,13 +207,13 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.9+mc1.21.3@jar",
+          "id": "net.caffeinemc.mods:sodium:0.6.0+mc1.21.3@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1296577,
-            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/sodium-fabric-0.6.9+mc1.21.3.jar",
-            "MD5": "2709d7bf48e7250bd1386cf6e36cb233"
+            "size": 1280198,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/sodium-fabric-0.6.0+mc1.21.3.jar",
+            "MD5": "c378bc5566e09f1e3127191be63fd85e"
           },
           "required": {
             "value": false
