@@ -207,13 +207,13 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.3@jar",
+          "id": "net.caffeinemc.mods:sodium:0.6.9+mc1.21.3@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1297507,
-            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.3.jar",
-            "MD5": "8f90b292168376e5ddc637cfebae58ca"
+            "size": 1296577,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.3/fabricmods/optionalon/sodium-fabric-0.6.9+mc1.21.3.jar",
+            "MD5": "2709d7bf48e7250bd1386cf6e36cb233"
           },
           "required": {
             "value": false
