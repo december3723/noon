@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/noon/root/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://december3723.github.io/noonNS/",
+    "rss": "https://github.com/december3723/noonNS/blob/main/news.xml",
     "discord": {
       "clientId": "1466150896403616001",
       "smallImageText": "Bungcher v.1",
