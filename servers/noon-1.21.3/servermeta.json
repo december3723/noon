@@ -5,7 +5,7 @@
     "name": "noon (Minecraft 1.21.3)",
     "description": "noon Running Minecraft 1.21.3 (Fabric v0.18.4)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "noon.n-e.kr:25565",
     "discord": {
       "shortId": "열심히 노동 중",
       "largeImageText": " 1.23 Bungcher v.1",

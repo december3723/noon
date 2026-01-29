@@ -13,7 +13,7 @@
       "description": "noon Running Minecraft 1.21.3 (Fabric v0.18.4)",
       "icon": "https://december3723.github.io/noon/servers/noon-1.21.3/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "noon.n-e.kr:25565",
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "열심히 노동 중",
