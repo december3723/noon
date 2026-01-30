@@ -11,14 +11,14 @@
       "id": "noon-1.21.1",
       "name": "noon (Minecraft 1.21.1)",
       "description": "noon Running Minecraft 1.21.1 (Fabric v0.18.4)",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "icon": "https://december3723.github.io/noon/servers/noon-1.21.1/icon.png",
+      "version": "2.0.0",
+      "address": "noon.n-e.kr:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "열심히 노동 중",
+        "largeImageText": " 1.21.1 Bungcher v2",
+        "largeImageKey": "white"
       },
       "mainServer": false,
       "autoconnect": false,

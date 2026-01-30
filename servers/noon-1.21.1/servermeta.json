@@ -1,15 +1,15 @@
 {
   "$schema": "file:///D:/noon/root/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "name": "noon (Minecraft 1.21.1)",
     "description": "noon Running Minecraft 1.21.1 (Fabric v0.18.4)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "noon.n-e.kr:25565",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "열심히 노동 중",
+      "largeImageText": " 1.21.1 Bungcher v2",
+      "largeImageKey": "white"
     },
     "mainServer": false,
     "autoconnect": false
