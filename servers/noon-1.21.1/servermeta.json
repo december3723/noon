@@ -11,7 +11,7 @@
       "largeImageText": "Bungcher V2",
       "largeImageKey": "white"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": true
   },
   "fabric": {
