@@ -272,6 +272,19 @@
           }
         },
         {
+          "id": "org.embeddedt:modernfix:5.25.1+mc1.21.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471258,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dev.tr7zw:notenoughanimations:1.11.2@jar",
           "name": "NotEnoughAnimations",
           "type": "FabricMod",
