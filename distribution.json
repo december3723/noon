@@ -283,6 +283,19 @@
           "required": {
             "value": false
           }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.3.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2177333,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/xaerominimap-fabric-1.21.1-25.3.10.jar",
+            "MD5": "0ae4f63c97b972ef3fdcd918c924feb5"
+          },
+          "required": {
+            "value": false
+          }
         }
       ]
     }
