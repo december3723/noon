@@ -116,6 +116,32 @@
           ]
         },
         {
+          "id": "team.creative:ambientsounds:6.3.4@jar",
+          "name": "AmbientSounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 84820046,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/AmbientSounds_FABRIC_v6.3.4_mc1.21.1.jar",
+            "MD5": "5a1f78573498b2e5748d3f7462ca4e48"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "eu.midnightdust:blur:6.1.0@jar",
+          "name": "Blur+",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 193655,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/blur-fabric-6.1.0+1.21.1.jar",
+            "MD5": "d5c023787a730aff36e8c1d9e8e8165f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dzwdz.chat_heads:chat_heads:0.15.0@jar",
           "name": "Chat Heads",
           "type": "FabricMod",
@@ -136,6 +162,19 @@
             "size": 1014044,
             "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/continuity-3.0.0+1.21.jar",
             "MD5": "daee3841730e2576a621943f289deadb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.13.24@jar",
+          "name": "CreativeCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1243889,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/CreativeCore_FABRIC_v2.13.24_mc1.21.1.jar",
+            "MD5": "b9104a9a5b185ff35c6ddaa14456f1bf"
           },
           "required": {
             "value": false
@@ -220,6 +259,32 @@
           }
         },
         {
+          "id": "eu.midnightdust.core:midnightlib:1.9.2@jar",
+          "name": "MidnightLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57958,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/midnightlib-fabric-1.9.2+1.21.1.jar",
+            "MD5": "9d95db5bccfe50b8871ecc67c530e76b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.11.2@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1925040,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/notenoughanimations-fabric-1.11.2-mc1.21.1.jar",
+            "MD5": "0ac28159fffa789c2dbf7bb9ecb10f73"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "su.plo.voice:plasmovoice:2.1.8@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
@@ -233,6 +298,19 @@
           }
         },
         {
+          "id": "eu.ha3:presencefootsteps:1.10.2+1.21@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5672720,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/PresenceFootsteps-1.10.2+1.21.jar",
+            "MD5": "544d493ee72e09b7edbb75ee09b53b38"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -240,6 +318,19 @@
             "size": 1297761,
             "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xyz.trivaxy:tia:1.2.1@jar",
+          "name": "Tiny Item Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20445,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/tia-fabric-1.21-1.2.1.jar",
+            "MD5": "6ba46e4793bc021d989ad016103e5f39"
           },
           "required": {
             "value": false
