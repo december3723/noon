@@ -116,6 +116,19 @@
           ]
         },
         {
+          "id": "dzwdz.chat_heads:chat_heads:0.15.0@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 84469,
+            "url": "https://december3723.github.io/noon/servers/noon-1.21.1/fabricmods/optionalon/chat_heads-0.15.0-fabric-1.21.jar",
+            "MD5": "47b98ca9ca1569134b74815b55cbe037"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.pepperbell:continuity:3.0.0+1.21@jar",
           "name": "Continuity",
           "type": "FabricMod",
